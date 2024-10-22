@@ -62,6 +62,7 @@ The user interface is built using **Streamlit**, providing an interactive experi
 We utilized **Plotly** to create a 3D visualization of the PCA-reduced decision boundaries, helping to illustrate how the models differentiate between neutron stars and pulsars based on the transformed feature space.
 
 ![PCA Visualization](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180835.png?raw=true) <!-- Placeholder for PCA visualization image -->
+![](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/nut-pul.png?raw=true)
 ## Installation
 
 To set up this project locally, follow these steps:
