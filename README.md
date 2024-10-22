@@ -1,6 +1,6 @@
 # Neutron Star - Pulsar Classification
 
-![Project Logo]([[images\nut-pul.png](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png)](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png?raw=true)) <!-- Placeholder for your project logo -->
+![Project Logo](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png?raw=true) <!-- Placeholder for your project logo -->
 
 ## Overview
 
