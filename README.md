@@ -1,6 +1,6 @@
 # Neutron Star - Pulsar Classification
 
-![Project Logo]([images\nut-pul.png](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png)) <!-- Placeholder for your project logo -->
+![Project Logo]([[images\nut-pul.png](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png)](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png?raw=true)) <!-- Placeholder for your project logo -->
 
 ## Overview
 
@@ -57,14 +57,11 @@ The hyperparameter optimization was conducted using **Optuna**, which allowed us
 
 The user interface is built using **Streamlit**, providing an interactive experience for users to input features and receive predictions on whether a given object is a neutron star or a pulsar.
 
-![Streamlit Interface]([images\Screenshot 2024-10-22 180740.png](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180740.png?raw=true)) <!-- Placeholder for Streamlit UI image -->
-
 ## Visualization
 
 We utilized **Plotly** to create a 3D visualization of the PCA-reduced decision boundaries, helping to illustrate how the models differentiate between neutron stars and pulsars based on the transformed feature space.
 
-![PCA Visualization]([images\Screenshot 2024-10-22 180835.png](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180835.png?raw=true)) <!-- Placeholder for PCA visualization image -->
-
+![PCA Visualization](https://github.com/HashamAkram18/Neutron-Pulsar-Classification/blob/main/images/Screenshot%202024-10-22%20180835.png?raw=true) <!-- Placeholder for PCA visualization image -->
 ## Installation
 
 To set up this project locally, follow these steps:
